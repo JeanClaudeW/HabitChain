@@ -29,7 +29,7 @@
       "favicon": "./assets/favicon.png"
     },
     "extra": {
-      "privacyPolicyUrl": ""
+      "privacyPolicyUrl": "https://JeanClaudeW.github.io/HabitChain/privacy-policy.html"
     },
     "plugins": [
       "expo-sqlite",
